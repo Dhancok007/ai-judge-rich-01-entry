@@ -1,5 +1,10 @@
 # ai-judge-rich-01 — "Make the AI judge rich"
 
+[![make.fun · ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/bounty/ai-judge-rich-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+[![rank](https://make.fun/badge/ai-judge-rich-01/Dhancok007/ai-judge-rich-01-entry/rank.svg)](https://make.fun/bounty/ai-judge-rich-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+[![reward](https://make.fun/badge/ai-judge-rich-01/Dhancok007/ai-judge-rich-01-entry/reward.svg)](https://make.fun/bounty/ai-judge-rich-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+
+
 Entry for the make.fun competition **ai-judge-rich-01** (program/v1, judged
 text). The entry is a small Python program that writes one plain-text plan
 to `entry.txt`: the plan an AI agent would follow to turn $100 into as much
